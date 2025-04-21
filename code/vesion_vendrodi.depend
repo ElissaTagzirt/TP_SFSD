@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1643481531 source:g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643478005 g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\fonction.h
+
+1643482638 source:g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonction.h"
+	"affichage.h"
+
+1643216788 source:g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\machine_abstraite.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643135840 g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\affichage.h
+	<conio.h>
+
+1643479801 source:g:\test avec le c\les fichiers\tp2021(fichier)\vesion_vendrodi\affichage_contune.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643479801 source:g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\affichage_contune.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643478005 g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\fonction.h
+
+1643481531 source:g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643216788 source:g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\machine_abstraite.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+	"fonction.h"
+
+1643483157 source:g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"fonction.h"
+	"affichage.h"
+
+1643135840 g:\test avec le c\les fichiers\tp2021(fichier)\tp1_2022_2021_g04_tagzirt_elissa_terki_meriem\affichage.h
+	<conio.h>
+
